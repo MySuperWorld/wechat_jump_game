@@ -1,9 +1,9 @@
 ## 更新日志
 - 2018-1-8
-  - 发布 release 一键启动 app V1.1.2 版本，针对腾讯 ban 方法进行反 ban 操作，详见 [STOP_jump](https://github.com/wangshub/wechat_jump_game/releases)
+  - 发布 release 一键启动 app V1.1.2 版本，针对腾讯 ban 方法进行反 ban 操作，详见 [STOP_jump](https://github.com/MySuperWorld/wechat_jump_game/releases)
 
 - 2018-1-3 ：
-  - 发布 release 一键启动 app，详见 [STOP_jump](https://github.com/wangshub/wechat_jump_game/releases)
+  - 发布 release 一键启动 app，详见 [STOP_jump](https://github.com/MySuperWorld/wechat_jump_game/releases)
 
 - 2017-12-30 :
   - 请将安卓手机的 USB 调试模式打开，设置 > 更多设置 > 开发者选项 > USB 调试，如果出现运行脚本后小人不跳的情况，请检查是否有打开 “USB 调试（安全模式）”
